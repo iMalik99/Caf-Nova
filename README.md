@@ -53,4 +53,6 @@ Quick snapshot of sales, orders, customers, and top product.
 - Promote drink pairings.
 - Analyze seasonal campaign success.
 
+  <a href="CaféNova Analysis.xlsx">View Analysis<a/>
+
   
